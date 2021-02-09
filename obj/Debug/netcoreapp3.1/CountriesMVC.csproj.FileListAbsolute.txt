@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.AssemblyInfo.cs
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.exe
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.deps.json
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.runtimeconfig.json
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.dll
+C:\Users\Nick\source\repos\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.pdb
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.dll
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.pdb
+C:\Users\Nick\source\repos\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.genruntimeconfig.cache
